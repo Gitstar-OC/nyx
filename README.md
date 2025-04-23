@@ -1,13 +1,15 @@
 # NYX
 
+Writing MDX inside a Nextjs app is the easiest thing. Learn how to do that! 
+
+In progress // commented code 
 <!--
-Writing MDX inside a Nextjs app is easy. Learn how to do that! 
 
 "NYX - Next.js MDX Template
 Welcome to NYX, a Next.js template repository designed to make it easy to build websites or applications with MDX (Markdown + JSX). This template provides a pre-configured Next.js setup with MDX support, allowing you to create content-rich pages with the power of Markdown and React components. Whether you're building a blog, documentation site, or a personal portfolio, NYX has you covered!
 Features
 
-Next.js 14 with App Router
+Next.js 15 with App Router
 MDX integration for writing Markdown with JSX
 Tailwind CSS for styling
 Pre-configured ESLint and Prettier for code quality
@@ -27,7 +29,7 @@ Follow these steps to set up and run the NYX template locally.
 Clone this repository to your local machine:
 git clone https://github.com/your-username/nyx.git
 cd nyx
---> 
+ 
 
 2. Install Dependencies
 Install the required dependencies using npm or Yarn:
