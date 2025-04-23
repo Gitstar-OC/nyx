@@ -1,5 +1,6 @@
 # NYX
 
+<!--
 Writing MDX inside a Nextjs app is easy. Learn how to do that! 
 
 "NYX - Next.js MDX Template
@@ -26,6 +27,7 @@ Follow these steps to set up and run the NYX template locally.
 Clone this repository to your local machine:
 git clone https://github.com/your-username/nyx.git
 cd nyx
+--> 
 
 2. Install Dependencies
 Install the required dependencies using npm or Yarn:
